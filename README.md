@@ -8,8 +8,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/time-tracking-dashboard-solution-C3TGjLe1sl)
-- Live Site URL: [here](https://sunilbaghel002.github.io/time-tracking-dashboard/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/results-summary-component-solution-kF9bN5o5St)
+- Live Site URL: [here](https://sunilbaghel002.github.io/results-summary-component-main/)
 
 ## My process
 
